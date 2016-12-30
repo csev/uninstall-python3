@@ -10,15 +10,15 @@ somewhere.
 
 The script is designed to function as a dry run so you can see all that it will do.   To run a dry run, do
 
-   bash uninstall-python3.sh
+    bash uninstall-python3.sh
 
 Examine the output - make sure that it is moving only the expected files.  When you are convinced this will do what you expect run
 
-   bash uninstall-python3.sh | sudo bash -v
+    bash uninstall-python3.sh | sudo bash -v
 
  To verify the files are gone, you can re-run
 
-   bash uninstall-python3.sh
+    bash uninstall-python3.sh
 
  It should produce no output.
 
