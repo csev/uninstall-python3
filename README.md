@@ -1,4 +1,5 @@
-# Uninstall Python3
+Uninstall Python3
+=================
 
 A simple shell script to Un-install Python 3 versions from Mac OS/X.
 
@@ -16,18 +17,19 @@ Examine the output - make sure that it is moving only the expected files.  When 
 
     bash uninstall-python3.sh | sudo bash -v
 
- To verify the files are gone, you can re-run
+To verify the files are gone, you can re-run
 
     bash uninstall-python3.sh
 
- It should produce no output.
+It should produce no output.
 
- And then you can happily re-install Python 3!
+And then you can happily re-install Python 3!
  
- # Sample Output
+Sample Output
+=============
  
- Here is the output of a sample run with the dry run first and the actual run second.  At the very
- end we re-run a dry run to make sure things are gone.
+Here is the output of a sample run with the dry run first and the actual run second.  At the very
+end we re-run a dry run to make sure things are gone.
  
     $ bash uninstall-python3.sh
     rm '/usr/local/bin/2to3'
