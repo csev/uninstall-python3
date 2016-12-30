@@ -1,6 +1,6 @@
 # Uninstall Python3
 
-A simple shell script to Uninstall Python 3 versions from Mac OS/X.
+A simple shell script to Un-install Python 3 versions from Mac OS/X.
 
 Of course we all want Python 3 everywhere - but sometimes we want to remove the older version and install
 the latest version - or just do a re-install from scratch.   
