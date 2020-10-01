@@ -25,7 +25,7 @@ It should produce no output.
 
 And then you can happily re-install Python 3!
  
-Sample Output
+Sample Output(an easy approach)
 =============
  
 Here is the output of a sample run with the dry run first and the actual run second.  At the very
